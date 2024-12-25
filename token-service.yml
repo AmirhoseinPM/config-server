@@ -2,4 +2,4 @@ server:
   port: 9002
 sadad:
   error:
-    message: "something went wrong with sadad service connection"
+    message: "UPDATED: something went wrong with sadad service connection"
